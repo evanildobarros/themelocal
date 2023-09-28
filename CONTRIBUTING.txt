@@ -20,7 +20,7 @@ each one and submit a different PR for each one.
 later to the rest of languages available by the translators.
 
 
-If you want to submit a translation file then follow these rules:
+If you want to submeter a translation file then follow these rules:
     -Follow the Moodle Coding Style (https://docs.moodle.org/dev/Coding_style)
     -Use Unicode and UNIX format for files (Windows format is not allowed)
 
