@@ -1,4 +1,4 @@
-name: moodleci
+name: moodle
 on:
   push:
     branches:
