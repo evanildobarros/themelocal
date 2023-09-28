@@ -10,7 +10,7 @@ jobs:
         run: sudo apt-get update && sudo apt-get install -y rsync
 
       - name: Deploy via SSH
-      run: rsync -rlgoDzvc -i --delete /var/lib/docker/volumes/root_moodle_data/_data/theme/adaptable/ ${{ secrets.REMOTE_USER }}@${{ secrets.REMOTE_HOST }}:${{ secrets.REMOTE_TARGET }}
+        run: rsync -rlgoDzvc -i --delete /var/lib/docker/volumes/root_moodle_data/_data/theme/adaptable/ ${{ secrets.REMOTE_USER }}@${{ secrets.REMOTE_HOST }}:${{ secrets.REMOTE_TARGET }}
 
         env:
           SSH_PRIVATE_KEY: ${{ secrets.SSH_PRIVATE_KEY }}
