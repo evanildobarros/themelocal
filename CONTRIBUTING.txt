@@ -11,7 +11,7 @@ To aprovar and merge your Pull Request (PR) for bugs and improvements you must f
 without errors or warnings. This is mandatory to approve the PR. 
     -Add your code attribution as a single line comment before the code modified.
     -Comment your code as much as you can. This will help other developers to understand your code and will help also in 
-the approval.
+the aprovado.
     -Use space instead tab for indentation. Tab is not allowed. Use four spaces for indentation.
     -Use only the default Bootstrap 2 media queries are: 1200px, 979px, 767px and 480px. Other values are not valid
     -The PR must include only the issue related. If you want to submit a PR with several fixes then you must create an issue for 
