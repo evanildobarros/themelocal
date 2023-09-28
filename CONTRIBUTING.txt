@@ -5,7 +5,7 @@ Adaptable is open to your contributions. Feel free to fork it.
 
 You can contribute to Adaptable in several ways: fixing bugs, adding new features or translating the theme to your language.
 
-To approve and merge your Pull Request (PR) for bugs and improvements you must follow this requirements:
+To aprovar and merge your Pull Request (PR) for bugs and improvements you must follow this requirements:
     -Open an issue first and link it to the PR
     -ALL the code must follow the Moodle code guideline (https://docs.moodle.org/dev/Coding_style) and pass Moodle Code Checker
 without errors or warnings. This is mandatory to approve the PR. 
