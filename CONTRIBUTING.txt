@@ -1,4 +1,4 @@
-Contributing to Adaptable
+Contributing to Adpatado
 =========================
 
 Adaptable is open to your contributions. Feel free to fork it.
